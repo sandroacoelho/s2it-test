@@ -1,7 +1,8 @@
+[![Build Status](https://travis-ci.org/sandroacoelho/s2it-test.svg?branch=master)](https://travis-ci.org/sandroacoelho/s2it-test)
+
 # s2it-test
 
-
-8 - Dados dois numeros inteiros A e B, crie um terceiro inteiro C seguindo as seguintes
+**8** - Dados dois numeros inteiros A e B, crie um terceiro inteiro C seguindo as seguintes
 regras:
 - O primeiro número de C é o primeiro número de A;
 - O segundo número de C é o primeiro número de B;
@@ -14,7 +15,7 @@ dos números do inteiro maior. Ex: A = 10256, B = 512, C deve ser 15012256.
 Desenvolva um algoritmo que atenda a todos os requisitos acima.
 
 
-9 - Considerando a estrutura de uma árvore binária:
+**9** - Considerando a estrutura de uma árvore binária:
 
 ```Java
 public class BinaryTree {
